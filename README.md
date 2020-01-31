@@ -1,0 +1,2 @@
+# mystori
+Jangan sombong bro
