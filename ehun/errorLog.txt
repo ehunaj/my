@@ -1,0 +1,608 @@
+
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendMention'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 'int' object is not callable
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'mentionMembers'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'mentionMembers'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] '<' not supported between instances of 'str' and 'int'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] sendMention() missing 1 required positional argument: 'lastmessage'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'Invitegroupcall'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendTemplates'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'mg' is not defined
+[<module 'time' (built-in)>] name 'mg' is not defined
+[<module 'time' (built-in)>] name 'mg' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] Bad protocol id in the message: 60
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'invieIntoGroup'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] name 'anmin' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] name 'anmin' is not defined
+[<module 'time' (built-in)>] name 'anmin' is not defined
+[<module 'time' (built-in)>] name 'anmin' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='IDENTIFY_MODIFIED', parameterMap=None)
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] TalkException(code=11, reason='INCOMPATIBLE_APP_VERSION 462', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: 7B1c6ROoOJ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:30:40] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:40] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:45] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:45] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:49] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:49] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:59] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:30:59] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:31:04] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:31:04] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:31:21] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:31:21] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:31:39] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:31:39] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:43:28] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:43:28] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:43:28] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:43:33] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:43:33] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:46:15] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:46:15] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:46:23] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:46:23] 'restartPoint'
+[Minggu, 26 - 01 - 2020 | 01:46:45] unhashable type: 'dict'
+[Minggu, 26 - 01 - 2020 | 01:46:45] unhashable type: 'dict'
+[Minggu, 26 - 01 - 2020 | 01:46:45] unhashable type: 'dict'
+[Minggu, 26 - 01 - 2020 | 01:46:48] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:47:09] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:47:31] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:47:53] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:48:14] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:48:36] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:48:58] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:49:19] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 01:52:03] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 01:52:07] 'dict' object has no attribute 'title'
+[Minggu, 26 - 01 - 2020 | 01:52:13] 'dict' object has no attribute 'title'
+[Minggu, 26 - 01 - 2020 | 01:56:28] 'dict' object has no attribute 'title'
+[Minggu, 26 - 01 - 2020 | 01:57:04] 'dict' object has no attribute 'title'
+[Minggu, 26 - 01 - 2020 | 01:57:05] 'dict' object has no attribute 'title'
+[Minggu, 26 - 01 - 2020 | 02:02:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:02:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:02:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:02:38] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:02:38] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:03:50] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:03:51] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:03:51] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:04:47] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:04:47] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:05:14] name 'execute_js' is not defined
+[Minggu, 26 - 01 - 2020 | 02:05:51] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:05:52] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:16] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:17] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:20] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:28] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:19:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:04] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:05] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:22] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:23] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:27] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:36] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:20:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:21:05] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:21:06] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:21:15] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:21:16] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:23:16] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:23:25] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:23:25] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:23:26] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:23:45] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:24:01] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:26:32] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:26:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:26:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:26:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:27:06] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:27:28] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:27:28] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:27:28] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:27:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:28:13] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:28:13] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:29:37] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:35:16] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:37:35] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:37:38] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:37:39] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:37:44] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:39:29] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:39:46] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:39:51] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:40:33] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:40:38] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:40:39] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:40:39] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:40:50] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:40:56] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:41:12] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:41:16] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:41:23] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:41:26] name 'wait' is not defined
+[Minggu, 26 - 01 - 2020 | 02:41:50] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:42:11] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:42:33] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:42:55] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:43:16] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:43:38] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:44:00] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:44:21] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:44:43] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:45:05] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:45:27] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:45:49] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:46:10] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:46:32] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:46:53] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:47:15] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:47:34] name 'execute_js' is not defined
+[Minggu, 26 - 01 - 2020 | 02:47:36] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:47:58] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:48:19] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:48:42] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:49:03] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:49:25] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:49:47] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:50:08] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:50:30] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:50:52] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:51:13] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Minggu, 26 - 01 - 2020 | 02:51:35] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
